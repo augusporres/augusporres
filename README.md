@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @augusporres
 - 👀 I’m interested in ethical hacking and programming
-- 🌱 I’m currently learning the basics of cybersecurity and improving my python skills
+- 🌱 I’m currently learning the basics of cybersecurity and improving my python skills. Also working on some web dev
 - 💞️ I’m looking to collaborate on any python project that helps learn and improve
 - 📫 How to reach me augusporres@gmail.com
 
