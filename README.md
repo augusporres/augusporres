@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @augusporres
-- 👀 I’m interested in ethical hacking and programming
-- 🌱 I’m currently learning the basics of cybersecurity and improving my python skills. Also working on some web dev
-- 💞️ I’m looking to collaborate on any python project that helps learn and improve
+- 🌱 I’m currently working as a backend developer. Mainly work with .NET Core but also some web dev with Vue, React and Nodejs.
+- 👀 Right now i'm in the process of learning Go.
+- 💞️ I’m looking to collaborate on any .NET project that helps learn and improve
 - 📫 How to reach me augusporres@gmail.com
 
 <!---
